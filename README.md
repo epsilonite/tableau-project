@@ -1,6 +1,9 @@
 ### tableau-project
 # NYC citi bike
 ## References:
+"psycopg2: PostgreSQL Database Adapter for Python." PostgreSQL Global Development Group, 2024.
+Available at: https://www.psycopg.org/docs/
+
 Jethro Chen. "The Radial Bar Chart in Tableau Tutorial." The Data School Australia, 2023.<br>
 Available at: https://www.thedataschool.com.au/jethro-chen/the-radial-bar-chart-in-tableau-tutorial/
 
