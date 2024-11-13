@@ -1,4 +1,4 @@
-### [tableau-project]!(https://public.tableau.com/views/nyc_citibike_all/FLUXVOLUME)
+### [tableau-project](https://public.tableau.com/views/nyc_citibike_all/FLUXVOLUME)
 In this challenge, we are the lead analyst for the New York Citi BikeLinks, the largest bike-sharing program in the United States. Our first task is to generate regular data reports for city officials looking to publicize and improve the city program. Our first step is to implement a postgres database to transform the relevant bike data that has been collected, organized, and published by the existing robust data collection pipeline. Then we inspect and clean the data so we can implement a dashboard and sohisticated reporting process built in tableau.
 ## Data Engineering
 **Data Exploration + Modeling:** inspecting raw data in pandas, structuring the data storage by creating databases and schemas in PostgreSQL using pgAdmin<br>
